@@ -25,6 +25,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:maxLines="2"
+                android:textAlignment="center"
                 android:text="@string/login_page_using_mvvm_livedata"
                 android:textColor="@color/black"
                 android:textSize="26sp"
