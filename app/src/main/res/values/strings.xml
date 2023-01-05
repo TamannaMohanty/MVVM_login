@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVVM_loginpage_livedata_databinding</string>
+    <string name="login_page_using_mvvm_livedata">Login Page using MVVM-LiveData</string>
+    <string name="password">Password</string>
+    <string name="e_mail_address">E-Mail Address</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="see_the_results_below_from_livedatabinding">See the Results Below From LiveDataBinding</string>
+    <string name="dash">---</string>
+</resources>
